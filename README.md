@@ -1,0 +1,1 @@
+# a config plugin via golang
